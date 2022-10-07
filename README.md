@@ -17,6 +17,9 @@ Ever since my first "Hello World" using Html, I fall in love with it and never l
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Franz-Art-L&theme=radical&hide_border=false)<br/>
 
+# 👨‍💻 Coding Activity Stats:
+<image src="https://wakatime.com/share/@ishoboy/c566ee61-3683-4708-859b-cc7ffabaac8a.svg" width="700px" height="400px"></image>
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Franz-Art-L&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 

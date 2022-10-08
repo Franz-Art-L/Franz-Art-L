@@ -1,12 +1,15 @@
-## Hi there 👋
+# <h1 align="center">Hi there 👋, I am Francis Artemio Landia</h1>
+#   <h3 align="center"> Full Stack Web Developer from the Philippines 🇵🇭 </h3>
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/media/5c8264a20b247115b68e6c2f4c97d5e6.gif">
+
 # 💫 About Me:
-Ever since my first "Hello World" using Html, I fall in love with it and never looked back again.<br>Coding eventually becomes my daily cardio.
+Ever since my first "Hello World" using Html, <br> I fall in love with it and never looked back again.<br>Coding eventually becomes my daily cardio.
 
 - 🔭 I’m currently working on Twitter and Airbnb Full stack clone for my online coding bootcamp projects.
 - 🌱 I’m currently learning React on Rails using Rails version 6.
 - 👯 I’m looking to collaborate on web 3 projects soon, once I'm done with this web 2 full stack journey.
 - 🤔 I’m looking for help with data structures and algorithms.
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-artemio-landia-9a1375123/) 
@@ -17,11 +20,17 @@ Ever since my first "Hello World" using Html, I fall in love with it and never l
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Franz-Art-L&theme=radical&hide_border=false)<br/>
 
-# 👨‍💻 Coding Activity Stats:
-<image src="https://wakatime.com/share/@ishoboy/c566ee61-3683-4708-859b-cc7ffabaac8a.svg" width="700px" height="400px"></image>
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Franz-Art-L&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+## 👨‍💻 Coding Activity Stats:
+<image src="https://wakatime.com/share/@ishoboy/c566ee61-3683-4708-859b-cc7ffabaac8a.svg" width="700px" height="400px"></image>
+
+## 💭 Programming Languages Used:
+<image src="https://wakatime.com/share/@ishoboy/67ddc56c-a177-419a-b116-6f4aaf48c626.svg" width="700px" height="400px"></embed></figure>
+
+## 💻🖥 Operating System Used:
+<image src="https://wakatime.com/share/@ishoboy/adcdd06b-ded8-413b-8d8c-7684c820e2b2.svg" width="700px" height="400px"></image>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
@@ -31,3 +40,5 @@ Ever since my first "Hello World" using Html, I fall in love with it and never l
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Franz-Art-L&icon=0&color=0)](https://visitcount.itsvg.in)
+
+#   <h3 align="center"> Thank you for visiting my Github 🤗 </h3>

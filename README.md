@@ -10,6 +10,7 @@ Ever since my first "Hello World" using Html, <br> I fall in love with it and ne
 - 🌱 I’m currently learning React on Rails using Rails version 6.
 - 👯 I’m looking to collaborate on web 3 projects soon, once I'm done with this web 2 full stack journey.
 - 🤔 I’m looking for help with data structures and algorithms.
+- 😆 Fun Fact about me is that I'm not funny.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-artemio-landia-9a1375123/) 

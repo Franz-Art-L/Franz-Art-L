@@ -40,7 +40,6 @@ Ever since my first "Hello World" using Html, <br> I fall in love with it and ne
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
 [![](https://visitcount.itsvg.in/api?id=Franz-Art-L&icon=0&color=0)](https://visitcount.itsvg.in)
 
 #   <h3 align="center"> Thank you for visiting my Github 🤗 </h3>

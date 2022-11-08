@@ -26,10 +26,10 @@ Ever since my first "Hello World" using Html, <br> I fall in love with it and ne
 ![](https://github-profile-trophy.vercel.app/?username=Franz-Art-L&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ## 👨‍💻 Coding Activity Stats:
-<image src="https://wakatime.com/share/@ishoboy/c566ee61-3683-4708-859b-cc7ffabaac8a.svg" width="700px" height="400px"></image>
+<image src="https://wakatime.com/share/@ishoboy/637059ae-da7d-47cc-b6de-95c90868c278.svg" width="700px" height="400px"></image>
 
 ## 💭 Programming Languages Used:
-<image src="https://wakatime.com/share/@ishoboy/9db3a506-6d1f-4652-b7fb-a96afca10d6e.svg" width="700px" height="400px"></image>
+<image src="https://wakatime.com/share/@ishoboy/37840658-4ba0-411d-9bcc-324423ae73b8.svg" width="700px" height="400px"></image>
 
 ## 💻🖥 Operating System Used:
 <image src="https://wakatime.com/share/@ishoboy/adcdd06b-ded8-413b-8d8c-7684c820e2b2.svg" width="700px" height="400px"></image>

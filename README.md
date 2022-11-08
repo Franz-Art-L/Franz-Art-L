@@ -29,7 +29,7 @@ Ever since my first "Hello World" using Html, <br> I fall in love with it and ne
 <image src="https://wakatime.com/share/@ishoboy/c566ee61-3683-4708-859b-cc7ffabaac8a.svg" width="700px" height="400px"></image>
 
 ## 💭 Programming Languages Used:
-<image src="https://wakatime.com/share/@ishoboy/d594a516-0d2e-4981-9f49-397076e1fcb2.svg" width="700px" height="400px"></image>
+<image src="https://wakatime.com/share/@ishoboy/9db3a506-6d1f-4652-b7fb-a96afca10d6e.svg" width="700px" height="400px"></image>
 
 ## 💻🖥 Operating System Used:
 <image src="https://wakatime.com/share/@ishoboy/adcdd06b-ded8-413b-8d8c-7684c820e2b2.svg" width="700px" height="400px"></image>

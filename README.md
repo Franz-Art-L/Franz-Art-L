@@ -6,9 +6,9 @@
 # 💫 About Me:
 Ever since my first "Hello World" using Html, <br> I fall in love with it and never looked back again.<br>Coding eventually becomes my daily cardio.
 
-- 🔭 I’m currently working on Twitter and Airbnb Full stack clone for my online coding bootcamp projects.
-- 🌱 I’m currently learning React on Rails using Rails version 6.
-- 👯 I’m looking to collaborate on web 3 projects soon, once I'm done with this web 2 full stack journey.
+- 🔭 Trying to think of a billion dollar idea that will change the world for the better 🌍🫶🏼
+- 🌱 🤔think.....🤔think.....🤔think.....
+- 👯 I’m looking forward to have programming friends, maybe we can have a coding conversations and build something out of it 😵‍💫
 - 🤔 I’m looking for help with data structures and algorithms.
 - 😆 Fun fact about me is that I'm not funny.
 

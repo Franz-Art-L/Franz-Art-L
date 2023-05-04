@@ -39,6 +39,10 @@ Ever since my first "Hello World" using Html, <br> I fall in love with it and ne
 
 [![](https://visitcount.itsvg.in/api?id=Franz-Art-L&icon=0&color=0)](https://visitcount.itsvg.in)
 
+# 🌊 Looking to save money on your cloud hosting? Sign up for Digital Ocean using my referral link and get $200 free credits.
+# Click the badge below to get started now! 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=fe61c1bb8582&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@ishoboy) 
 
